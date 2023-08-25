@@ -98,4 +98,4 @@ Then in a terminal type::
 Raw Files Server
 ==================
 
-If you just want an https view of your files, use the raw server, which is already available by default at ``https://cocalc.com/[project_id]/raw/``. The point of the above is that you could modify it to provide all sorts of interesting functionality.
+If you just want an https view of your files, use the raw server, which is already available by default at ``https://cocalc.com/[project_id]/raw/``. The point of the above is that you could modify it to provide all sorts of interesting functionality..
